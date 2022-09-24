@@ -1,0 +1,19 @@
+Role-based access control (RBAC) limits network access based on a person's role inside an organization and has become a popular way for advanced access control. 
+RBAC roles refer to the levels of network access that employees have.
+
+How to set users and/ or groups on Azure Active Directory
+
+Step 1: Login in on your Microsoft Azure Portal
+Step 2: If not on your home page, go to your home page. On your home page, locate the search bar at the top. Search for Azure Active Directory and enter.
+Step 3: You should be in the Active Direcory where you can create users or groups.
+
+To create users:
+Step 1: On the left panel, you will see a list of things you can do. Select users.
+Step 2: Once on the user page, select add new user.
+Step 3: Input required or neccessary information regarding the user, such as username, name and job information.
+Step 4: Click create, and the user will be created.
+
+To create a group:
+Step 1: On the left panel, you will see a list of things you can do. Select groups.
+Step 2: Once on the group page, input required or neccessary information regarding the group, such as group name, description and etc.
+Step 4: Click create group twice, and the group will be created.
